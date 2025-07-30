@@ -15,6 +15,7 @@
 
 - [Автошахта](osnovnye-mekhaniki/avtoshakhta.md)
 - [Хранитель опыта (/expkeeper)](osnovnye-mekhaniki/khranitel-opyta.md)
+- [Зачарования](osnovnye-mekhaniki/zacharovaniya.md)
 
 ## Приваты и взрывчатки
 
@@ -42,6 +43,28 @@
 
 - [Кастомные предметы](osnovnye-mekhaniki/custom-predmeti.md)
 - [Рюкзак](osnovnye-mekhaniki/ryukzak.md)
+
+## Исследование мира
+
+- [Данжи](osnovnye-mekhaniki/danji.md)
+- [Уникальные данжи](osnovnye-mekhaniki/uniq-dunge.md)
+- [Сокровищницы](osnovnye-mekhaniki/sokrovishnici.md)
+- [Захват Энда](osnovnye-mekhaniki/zahvat-enda.md)
+
+## Ивенты
+
+- [Голосование за ивенты](osnovnye-mekhaniki/golosovanie.md)
+- [Груз](osnovnye-mekhaniki/gruz.md)
+- [Цветочная поляна](osnovnye-mekhaniki/polyana.md)
+- [Золотая лихорадка](osnovnye-mekhaniki/zolotaya-lihoradka.md)
+- [Замок на нулевых координатах](osnovnye-mekhaniki/zamok-nuli.md)
+- [Посылка](osnovnye-mekhaniki/posilka.md)
+- [Таинственный корабль](osnovnye-mekhaniki/tainstveni-korabl.md)
+- [Уникальные боссы](osnovnye-mekhaniki/boss.md)
+- [Опытный Тыпо](osnovnye-mekhaniki/opinti-tupo.md)
+- [Трофейная охота](osnovnye-mekhaniki/hunt.md)
+- [Смертельная шахта](osnovnye-mekhaniki/smertelnaya-shahta.md)
+- [Контейнер](osnovnye-mekhaniki/container.md)
 
 ## Донат
 
