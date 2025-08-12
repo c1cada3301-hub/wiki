@@ -24,7 +24,7 @@
 - Выбор любого доступного цвета
 
 **Способы получения:**
-- Покупка на официальном сайте ([holyworld.ru](https://holyworld.ru/payment/lite/3200))
+- Покупка на [официальном сайте](https://holyworld.me/payment/lite/3200)
 - Магазин скупщика `/b shop`
 - Контейнер `/container`
 
