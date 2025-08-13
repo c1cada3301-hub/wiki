@@ -46,7 +46,6 @@
 
 ## Исследование мира
 
-- [Данжи](osnovnye-mekhaniki/danji.md)
 - [Уникальные данжи](osnovnye-mekhaniki/uniq-dunge.md)
 - [Сокровищницы](osnovnye-mekhaniki/sokrovishnici.md)
 - [Захват Энда](osnovnye-mekhaniki/zahvat-enda.md)
